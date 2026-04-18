@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GuardianTrack</string>
+    <string name="permission_read_contacts_description">Permet de lire les contacts d\'urgence de GuardianTrack</string>
+</resources>
